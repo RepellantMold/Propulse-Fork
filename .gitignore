@@ -64,7 +64,17 @@ debug\.txt
 *.pdf
 *.zip
 *.tar\.gz
-*.mod
+
+# modules
+*.[mM][oO][dD]
+*.[sS][tT][kK]
+[mM][oO][dD].*
+[sS][tT][kK].*
+*.[sS][tT][mM]
+*.[xX][mM]
+*.[iI][tT]
+*.[sS]3[mM]
+
 *.sh
 *.0
 data/palette/Image1\.png
