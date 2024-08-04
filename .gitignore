@@ -66,11 +66,13 @@ debug\.txt
 *.tar\.gz
 
 # modules
+modules/*
 *.[mM][oO][dD]
 *.[sS][tT][kK]
 [mM][oO][dD].*
 [sS][tT][kK].*
 *.[sS][tT][mM]
+*.[sS][tT][xX]
 *.[xX][mM]
 *.[iI][tT]
 *.[sS]3[mM]
